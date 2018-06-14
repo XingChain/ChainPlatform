@@ -4,7 +4,7 @@ Dependencies: Java 8 or later needs to be installed first. Oracle JVM gives
 better performance and has been more tested, but OpenJDK is also supported.
 
 
-Using the cid-client.zip package:
+Using the ChainPlatform.zip package:
 
 Unpack the cid-client.zip package and open a shell in the resulting cid
 directory. Execute the run.sh or start.sh script if using Linux or BSD, run.bat
