@@ -1,0 +1,13 @@
+{
+    "balances": {
+         "CID-HVMR-N7PD-ZY48-88CEX": 50000000000000000,
+         "CID-C4N6-SS69-TSF7-C6XSY": 20000000000000000,
+         "CID-YZK2-7LUA-P6NA-GNCRM": 20000000000000000
+         
+     },
+     "publicKeys": [
+         "83fe103be11e3aeae7322f393a9a06c7c77a2c9a3bca20e64edfafe2be67456d",
+         "2dec6f60beb942a6f27845540ea4ad2cbf554eb3c09d313844bc3a74a08c1a7b",
+         "ae0dc9bf9e200312e23975787ddc1c8f654355730a5c1df8b0bfd80374422c2a"
+     ]
+ }
